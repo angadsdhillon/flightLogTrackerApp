@@ -1,0 +1,90 @@
+{"flights": [
+    {
+        "date": "Jan 1",
+        "departureAirport": "DXB",
+        "flightHours": 4,
+        "aircraftModel": "Boeing 777",
+        "isLongHaul": false,
+        "arrivalAirport": "DEL"
+    },
+    {
+        "date": "Jan 2",
+        "departureAirport": "YVR",
+        "flightHours": 2,
+        "aircraftModel": "Airbus A320",
+        "isLongHaul": false,
+        "arrivalAirport": "YYC"
+    },
+    {
+        "date": "Jan 3",
+        "departureAirport": "SEA",
+        "flightHours": 14,
+        "aircraftModel": "Airbus A350",
+        "isLongHaul": true,
+        "arrivalAirport": "DOH"
+    },
+    {
+        "date": "Jan 5",
+        "departureAirport": "YVR",
+        "flightHours": 10,
+        "aircraftModel": "Airbus A340",
+        "isLongHaul": true,
+        "arrivalAirport": "PVG"
+    },
+    {
+        "date": "Jan 6",
+        "departureAirport": "YVR",
+        "flightHours": 2,
+        "aircraftModel": "Boeing 737max",
+        "isLongHaul": false,
+        "arrivalAirport": "YYZ"
+    },
+    {
+        "date": "Jan 7",
+        "departureAirport": "LAS",
+        "flightHours": 3,
+        "aircraftModel": "Boeing 757-300",
+        "isLongHaul": false,
+        "arrivalAirport": "MSP"
+    },
+    {
+        "date": "Jan 8",
+        "departureAirport": "YVR",
+        "flightHours": 10,
+        "aircraftModel": "Boeing 767-300ER",
+        "isLongHaul": true,
+        "arrivalAirport": "NRT"
+    },
+    {
+        "date": "Jan 9",
+        "departureAirport": "PEK",
+        "flightHours": 12,
+        "aircraftModel": "Boeing 747-800",
+        "isLongHaul": true,
+        "arrivalAirport": "LHR"
+    },
+    {
+        "date": "Jan 10",
+        "departureAirport": "DEN",
+        "flightHours": 3,
+        "aircraftModel": "CRJ-700",
+        "isLongHaul": false,
+        "arrivalAirport": "YVR"
+    },
+    {
+        "date": "Jan 11",
+        "departureAirport": "NRT",
+        "flightHours": 8,
+        "aircraftModel": "Boeing 787-9",
+        "isLongHaul": true,
+        "arrivalAirport": "DEL"
+    },
+    {
+        "date": "April 26",
+        "departureAirport": "SEA",
+        "flightHours": 14,
+        "aircraftModel": "Boeing 777-300ER",
+        "isLongHaul": true,
+        "arrivalAirport": "DOH"
+    }
+]}

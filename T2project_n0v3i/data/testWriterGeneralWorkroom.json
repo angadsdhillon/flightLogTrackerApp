@@ -1,0 +1,18 @@
+{"flights": [
+    {
+        "date": "Jan 1, 2020",
+        "departureAirport": "SEA",
+        "flightHours": 13,
+        "aircraftModel": "Boeing 777",
+        "isLongHaul": true,
+        "arrivalAirport": "DXB"
+    },
+    {
+        "date": "Dec 31, 2020",
+        "departureAirport": "LHR",
+        "flightHours": 3,
+        "aircraftModel": "Airbus A320",
+        "isLongHaul": false,
+        "arrivalAirport": "ZUR"
+    }
+]}

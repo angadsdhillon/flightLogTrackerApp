@@ -1,0 +1,34 @@
+{"flights": [
+    {
+        "date": "Nov 5, 2003",
+        "departureAirport": "YVR",
+        "flightHours": 10,
+        "aircraftModel": "Boeing 747",
+        "isLongHaul": true,
+        "arrivalAirport": "LHR"
+    },
+    {
+        "date": "Dec 30, 2020",
+        "departureAirport": "NRT",
+        "flightHours": 9,
+        "aircraftModel": "Boeing 787",
+        "isLongHaul": true,
+        "arrivalAirport": "DEL"
+    },
+    {
+        "date": "Dec 29, 2020",
+        "departureAirport": "CDG",
+        "flightHours": 8,
+        "aircraftModel": "Airbus A350",
+        "isLongHaul": true,
+        "arrivalAirport": "DEL"
+    },
+    {
+        "date": "July 1, 2020",
+        "departureAirport": "MCO",
+        "flightHours": 3,
+        "aircraftModel": "Boeing 757",
+        "isLongHaul": false,
+        "arrivalAirport": "ORD"
+    }
+]}
