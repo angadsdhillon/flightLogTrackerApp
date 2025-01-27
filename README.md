@@ -54,7 +54,7 @@ are to be performed daily, simpler and more enjoyable.
   if I choose to do so
 
 
-# Instructions for Grader
+# Instructions to Run the App
 
 - First run the app via the FlightLogGUI class, then you will see a panel with
   buttons.
